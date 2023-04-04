@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       Gerry How
 // @match        https://edstem.org/au/courses/*/discussion/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=edstem.org
 // @grant        none
